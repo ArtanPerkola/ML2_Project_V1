@@ -14,7 +14,9 @@ Hautkrebs ist eine der häufigsten Krebsarten weltweit. Frühzeitige Erkennung u
 
 ## Daten
 
-Die Daten, welche für das Training und Validierung der Modelle genutzt wurden, stammen aus Kaggle vom User MUHAMMAD HASNAIN JAVID [Link](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images) . Es handelt sich hier bei um etwa 10000 Bilder von gut- und bösartigen Muttermalen. Das Set von Kaggle war unterteilt in "Test" und "Train" Daten. Die Bilder für die "Validation" habe ich mit hilfe des Skripts "split_data.py" erzeugt. Dieses hat 20% der Daten aus "Train" genommen und in diesem Ordner verschoben.
+Die Daten, welche für das Training und Validierung der Modelle genutzt wurden, stammen aus Kaggle vom User MUHAMMAD HASNAIN JAVID. Es handelt sich hier bei um etwa 10000 Bilder von gut- und bösartigen Muttermalen. Das Set von Kaggle war unterteilt in "Test" und "Train" Daten. Die Bilder für die "Validation" habe ich mit hilfe des Skripts "split_data.py" erzeugt. Dieses hat 20% der Daten aus "Train" genommen und in diesem Ordner verschoben.
+
+[Link zum Dataset auf Kaggle](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images)
 
 - *Test*: 1002 Bilder
 - *Train*: 7686 Bilder
