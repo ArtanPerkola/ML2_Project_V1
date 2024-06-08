@@ -39,7 +39,7 @@ Wichtig: In diesem Projekt wurde für das ResNet50 Modell der einfachheitshalber
 
 ![Evaluierung ResNet50](images/Evaluierung_ResNet50Modell.png)
 
-Bemerkung: Das Skript hat vorgehsehen, dass 50 Epochen durchgeführt werden. Durch den Einsatz eines Early Stopp, welcher das Training abbricht, sobald keine Verbesserungen mehr erwartet werden, sind aber effektiv nur *14 Epochen* durchgeführt worden.
+Bemerkung: Das Skript hat vorgesehen, dass 50 Epochen durchgeführt werden. Durch den Einsatz eines Early Stopp, welcher das Training abbricht, sobald keine Verbesserungen mehr erwartet werden, sind aber effektiv nur *14 Epochen* durchgeführt worden.
 
 ### EfficientNet Modellergebnis
 
@@ -92,7 +92,7 @@ Führe folgenden Befehl aus, um die erstellte Umgebung zu aktivieren.
 
 4. Abhängigkeiten installieren
 
-Installiere alle in notwendigen Python-Pakete. Diese findest du in der requirements.txt
+Installiere alle notwendigen Python-Pakete. Diese findest du in der requirements.txt.
 
     pip install -r requirements.txt
 
